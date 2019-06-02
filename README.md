@@ -1,14 +1,4 @@
-## 运行
-
-```bash
-# 启动安卓
-react-native run-android
-
-# 启动ios
-react-native run-ios
-```
-
-## 依赖
+## 支持
 
 - `dva` 
 - `react-navigation`
@@ -31,3 +21,13 @@ npm i -g poetry-cli
   electron
   next
   ```
+
+  ## 运行
+
+```bash
+# 启动安卓
+react-native run-android
+
+# 启动ios
+react-native run-ios
+```
